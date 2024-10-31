@@ -1,0 +1,102 @@
+# Copyright (C) 2023 QP Group
+# This file is distributed under the GPL-2.0+.
+msgid ""
+msgstr ""
+"Project-Id-Version: QPMN POD by QP Group 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/qpmn-pod-by-qp-group\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-07-28T10:27:52+08:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: qpmn-pod-by-qp-group\n"
+
+#. Plugin Name of the plugin
+msgid "QPMN POD by QP Group"
+msgstr ""
+
+#. Plugin URI of the plugin
+#. Description of the plugin
+msgid "QPMN is backed by Q P Group, a publicly listed company which has more than 35 years’ experience as a leading printing company with special focus on drop shipping and Next-generation Print-On-Demand (POD) services."
+msgstr ""
+
+#. Author of the plugin
+msgid "QP Group"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://partner.qpmarketnetwork.com"
+msgstr ""
+
+#: includes/admin/class-qpson-admin-menus.php:25
+msgid "Integration Config"
+msgstr "集成配置"
+
+#: includes/admin/class-qpson-admin-menus.php:26
+msgid "Store Key"
+msgstr "店鋪Key"
+
+#: includes/admin/class-qpson-admin-menus.php:56
+#: includes/admin/class-qpson-admin-menus.php:57
+#: includes/admin/views/html-admin-settings.php:3
+msgid "Settings"
+msgstr "設置"
+
+#: includes/admin/views/html-admin-settings.php:12
+#: includes/class-qpson-shipping-method.php:23
+#: includes/class-qpson-shipping-method.php:25
+msgid "QPMN Shipping"
+msgstr "QPMN配送"
+
+#: includes/admin/views/html-admin-settings.php:13
+msgid "To enable/disable QPMN shipping for your store go to"
+msgstr "為你的店鋪啟用/禁用QPMN配送你可以前往"
+
+#: includes/admin/views/html-admin-settings.php:15
+msgid "Save"
+msgstr "保存"
+
+#: includes/admin/wc/class-qpson-admin-wc-order.php:66
+#: includes/wc/class-qpson-wc-cart.php:125
+#: includes/wc/views/html-qpson-design-button.php:22
+msgid "Edit"
+msgstr "編輯"
+
+#: includes/admin/wc/class-qpson-admin-wc-order.php:67
+#: includes/wc/class-qpson-wc-cart.php:126
+#: includes/wc/class-qpson-wc-checkout.php:28
+#: includes/wc/class-qpson-wc-order.php:62
+#: includes/wc/views/html-qpson-preview-button.php:11
+msgid "Preview"
+msgstr "預覽"
+
+#: includes/class-qpson-shipping-method.php:24
+msgid "Calculate live shipping rates based on actual QPMN shipping costs."
+msgstr "使用QPMN配送計算運費"
+
+#: includes/class-qpson-shipping-method.php:60
+msgid "Enabled"
+msgstr "啟用"
+
+#: includes/class-qpson-shipping-method.php:62
+msgid "Enable QPMN Shipping Method"
+msgstr "啟用QPMN配送"
+
+#: includes/class-qpson-shipping-method.php:67
+msgid "Override"
+msgstr "覆蓋"
+
+#: includes/class-qpson-shipping-method.php:69
+msgid "Override standard WooCommerce shipping rates"
+msgstr "覆蓋標準的Woocommerce運費計算"
+
+#: includes/wc/class-qpson-wc-category.php:18
+msgid "Select options"
+msgstr "選擇選項"
+
+#: includes/wc/views/html-qpson-design-button.php:19
+msgid "Design"
+msgstr "定製"

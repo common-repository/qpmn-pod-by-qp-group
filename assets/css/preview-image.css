@@ -1,0 +1,28 @@
+.qpmn_load::before{
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    border: 2px solid #007abe;
+    animation: borderAround 2.5s infinite linear;
+    z-index: 1;
+    
+}
+
+.qpmn_load{
+    display: inline-block;
+    position: relative;
+    border: 1px solid #eee;
+}
+
+.checkout-product-name{
+    display: flex;
+}
+
+.order-product-name{
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+}
